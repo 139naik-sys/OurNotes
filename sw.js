@@ -1,5 +1,5 @@
 // Service worker: offline app shell + push notifications.
-const VERSION = "our-notes-v1";
+const VERSION = "our-notes-v2";
 const SHELL = [
   "./",
   "index.html",
